@@ -197,7 +197,7 @@ wheels = [
 ]
 
 [[package]]
-name = "llm-proxy"
+name = "llm-force-queue"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
